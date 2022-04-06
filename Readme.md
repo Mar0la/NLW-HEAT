@@ -1,3 +1,3 @@
 ### NLW-HEAT
 
-### Mission:Origin Foundation.
+### Mission: Origin Foundation.
