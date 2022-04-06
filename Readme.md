@@ -1,5 +1,3 @@
 ### NLW-HEAT
 
-### Mission:Origin Foundation
-
-*Dia 3.
+### Mission:Origin Foundation.
